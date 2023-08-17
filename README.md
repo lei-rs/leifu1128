@@ -43,6 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leifu1128/leifu1128/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/leifu1128/leifu1128/blob/main/snake.svg" alt="Snake animation" />
 
 ###
