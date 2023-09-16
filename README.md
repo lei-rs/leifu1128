@@ -3,6 +3,7 @@
 ###
 
 <h3 align="center">4th year Math / Stats at Purdue</h3>
+<p>Right now, I am focused on making tooling to accelerate training workflows using Rust, and binding them to Python.</p>
 
 ###
 
