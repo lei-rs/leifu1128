@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lei</h1>
-
-###
-
-<h3 align="center">4th year Math / Stats at Purdue</h3>
-<p>Right now, I am focused on making Python deep learning tooling using Rust/PyO3.</p>
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 
 ###
